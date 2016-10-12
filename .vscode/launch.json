@@ -5,7 +5,7 @@
             "name": "Iniciar",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/10-Time Server/program.js",
+            "program": "${workspaceRoot}/12-http uppercase/program.js",
             "stopOnEntry": false,
             "args": ["8000"],
             "cwd": "${workspaceRoot}",
